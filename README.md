@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<p align="center"><a href="https://github.com/rahulb49"> #RAHUL BHAGAT </a></p><br/>
+<p align="center"><a href="https://github.com/rahulb49"> RAHUL BHAGAT </a></p><br/>
 
 I'm Computer Science Engineer and UX/UX Designer from NEPAL NP
 
