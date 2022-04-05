@@ -1,7 +1,7 @@
 
 <p align="center"><a href="https://github.com/rahulb49">  </a> RAHUL BHAGAT  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15px"></p><br/>
 
-I'm Computer Science Engineer and UX/UX Designer from NEPAL. I'm here to collaborate & share my knowledge through github.
+I'm Computer Science Engineer Undergrad and UX/UX Designer , Software Engineer from NEPAL. I'm here to collaborate & share my knowledge through github.
 <br/>
 
 Reach Me:
