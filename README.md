@@ -13,7 +13,6 @@ I'm an RPA Engineer at BNP Paribas with a Master's in Data Science, focused on e
 Reach Me:
 [![Linkedin Badge](https://img.shields.io/badge/-@rahulbt-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rahulbt/)](https://www.linkedin.com/in/rahulbt/)
 &nbsp;
-[![Twitter Badge](https://img.shields.io/badge/-@rahul_b49-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/rahul_b49)](https://twitter.com/rahul_b49)&nbsp;
 [![Instagram Badge](https://img.shields.io/badge/-@http.rahulb-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/http.rahulb/)](https://www.instagram.com/http.rahulb/)&nbsp;
 [![Gmail Badge](https://img.shields.io/badge/-rahulcse-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rahulkrchaurasiya125@gmail.com)](mailto:rahulkrchaurasiya125@gmail.com)
 &nbsp;&nbsp;
