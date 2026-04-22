@@ -30,7 +30,10 @@ Reach Me:
 <code><img height="20" src="https://cdn.simpleicons.org/databricks/E25A1C"></code>
 <code><img height="20" src="https://cdn.simpleicons.org/apacheairflow/017CEE"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/azure/azure.png"></code>
-<code><img height="20" src="https://cdn.simpleicons.org/blueprism"></code>
+<code>
+  <img height="20" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/blueprism.svg">
+  Blue Prism
+</code>
 <code><img height="20" src="https://cdn.simpleicons.org/dynatrace"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/ansible/ansible.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png"></code>
