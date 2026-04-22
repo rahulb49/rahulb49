@@ -20,9 +20,11 @@ Reach Me:
 <code><img height="20" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/servicenow.svg"></code>
 <code><img height="20" src="https://cdn.simpleicons.org/bitbucket/0052CC"></code>
 <code><img height="20" src="https://cdn.simpleicons.org/jira"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/yaml/yaml.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png"></code>
 <code><img height="20" src="https://cdn.simpleicons.org/apachespark/FDEE21"></code>
+
 
 
 
