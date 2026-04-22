@@ -17,8 +17,8 @@ Reach Me:
 #### **BASICS:**  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/bitbucket/bitbucket.png"></code>
-<code><img height="20" src="https://cdn.simpleicons.org/servicenow"></code>
+<code><img height="20" src="https://cdn.simpleicons.org/servicenow/00A1E0"></code>
+<code><img height="20" src="https://cdn.simpleicons.org/bitbucket/0052CC"></code>
 <code><img height="20" src="https://cdn.simpleicons.org/jira"></code>
 
 ---
