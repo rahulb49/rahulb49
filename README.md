@@ -1,6 +1,6 @@
 
 <p align="center"width="16px" ><a href="https://github.com/rahulb49">  </a> RAHUL BHAGAT  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15px"></p><br/>
-<p align="center" width="14px" ><a href="https://github.com/rahulb49">  </a> RPA Engineer at BNP Paribas | MSc Data Science   </p><br/>
+<p align="center" width="12px" ><a href="https://github.com/rahulb49">  </a> RPA Engineer at BNP Paribas | MSc Data Science   </p><br/>
 I'm an RPA Engineer at BNP Paribas with a Master's in Data Science, focused on enhancing efficiency and system resilience through automation. I am actively transitioning toward Data Engineering, building expertise in scalable data pipelines and cloud-based solutions, with the goal of designing large-scale, impactful data platforms. I actively collaborate and share knowledge on GitHub.
 <br/>
 
