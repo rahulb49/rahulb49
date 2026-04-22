@@ -9,8 +9,9 @@
 </p>
 I'm an RPA Engineer at BNP Paribas with a Master's in Data Science, focused on enhancing efficiency and system resilience through automation. I am actively transitioning toward Data Engineering, building expertise in scalable data pipelines and cloud-based solutions, with the goal of designing large-scale, impactful data platforms. I actively collaborate and share knowledge on GitHub.
 <br/>
+<br/>
 
-Reach Me:
+#### **Reach Me:**
 [![Linkedin Badge](https://img.shields.io/badge/-@rahulbt-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rahulbt/)](https://www.linkedin.com/in/rahulbt/)
 &nbsp;
 [![Instagram Badge](https://img.shields.io/badge/-@http.rahulb-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/http.rahulb/)](https://www.instagram.com/http.rahulb/)&nbsp;
