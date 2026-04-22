@@ -22,10 +22,7 @@ Reach Me:
 <code><img height="20" src="https://cdn.simpleicons.org/jira"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/yaml/yaml.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
-<code>
-  <img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/apache-spark/apache-spark.png">
-</code>
+<code><img height="20" src="https://cdn.simpleicons.org/apachespark/FDEE21"></code>
 
 
 
