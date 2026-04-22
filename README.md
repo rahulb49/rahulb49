@@ -14,32 +14,30 @@ Reach Me:
 ![](https://visitor-badge.glitch.me/badge?page_id=rahul_b49.rahul_b49)
 
 
-
 #### **BASICS:**  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/bitbucket/bitbucket.png"></code>
-<code><img height="20" src="https://img.icons8.com/color/48/servicenow.png"></code>
-<code><img height="20" src="https://img.icons8.com/color/48/jira.png"></code>
+<code><img height="20" src="https://cdn.simpleicons.org/servicenow"></code>
+<code><img height="20" src="https://cdn.simpleicons.org/jira"></code>
 
+---
 
 #### **Languages :**
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/yaml/yaml.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://spark.apache.org/images/spark-logo-trademark.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/apache-spark/apache-spark.png"></code>
 
-
+---
 
 #### **Tools :**
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/databricks/databricks.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/apache-airflow/apache-airflow.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/azure/azure.png"></code>
-<code><img height="20" src="https://img.icons8.com/color/48/blue-prism.png"></code>
-<code><img height="20" src="https://img.icons8.com/color/48/dynatrace.png"></code>
+<code><img height="20" src="https://cdn.simpleicons.org/blueprism"></code>
+<code><img height="20" src="https://cdn.simpleicons.org/dynatrace"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/ansible/ansible.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/azure/azure.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/kubernetes/kubernetes.png"></code>
 
