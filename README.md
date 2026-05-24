@@ -42,5 +42,3 @@ I'm an RPA Engineer at BNP Paribas with a Master's in Data Science, focused on e
 
 
 <br/><br/>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulb49)](https://github.com/rahulb49/github-readme-stats)
